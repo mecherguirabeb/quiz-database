@@ -1,0 +1,13 @@
+{
+questions: [
+        { text: "Qu'est-ce que Vue.js ?", answers: ["Un langage", "Un framework", "Une bibliothèque", "Un CMS"], correctAnswer: "Un framework" },
+        { text: "Quelle directive pour conditionner un élément ?", answers: ["v-if", "v-for", "v-bind", "v-show"], correctAnswer: "v-if" },
+        { text: "Comment ajouter une méthode dans Vue.js ?", answers: ["data", "methods", "computed", "props"], correctAnswer: "methods" },
+        { text: "Quelle directive pour écouter un événement ?", answers: ["v-bind", "v-model", "v-on", "v-for"], correctAnswer: "v-on" },
+        { text: "Quel mot-clé est utilisé pour créer une propriété calculée ?", answers: ["computed", "data", "methods", "props"], correctAnswer: "computed" },
+        { text: "Comment lier un attribut à une donnée ?", answers: ["v-if", "v-bind", "v-on", "v-model"], correctAnswer: "v-bind" },
+        { text: "Quelle méthode est appelée après le montage d'un composant ?", answers: ["mounted", "created", "updated", "destroyed"], correctAnswer: "mounted" },
+        { text: "Qu'est-ce que Vuex ?", answers: ["Un router", "Un store", "Un compilateur", "Un débogueur"], correctAnswer: "Un store" },
+        { text: "Quel directive est utilisée pour répéter une liste d'éléments ?", answers: ["v-for", "v-if", "v-show", "v-bind"], correctAnswer: "v-for" },
+        { text: "Quelle est la syntaxe pour lier une variable à un input ?", answers: ["v-model", "v-bind", "v-for", "v-on"], correctAnswer: "v-model" }
+      ]}
